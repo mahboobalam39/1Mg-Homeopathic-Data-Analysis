@@ -17,6 +17,7 @@ Analysis of Brand 1Mg Homeopathic Medicine on the basis of data retrieved via we
 # Dashboard :
 ![image](https://github.com/mahboobalam39/1Mg-Homeopathic-Data-Analysis/assets/147431637/617702ea-3ccd-4425-85d8-c566b86c4c49)
 
+
 # CHALLANGES FACED DURING THE PROJECT :
 1. LEARNING OF A NEW SKILL: WEB SCRAPPING (OPPORTUNITY AS WELL AS A CHALLANGE)
 2. DATA WAS TOO BIG TO RETRIEVE WE GOT DISCONNECTED WITH THE COMPANY’S SERVER A NUMBER OF TIMES.

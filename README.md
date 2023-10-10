@@ -6,7 +6,7 @@ Analysis of Brand 1Mg Homeopathic Medicine on the basis of data retrieved via we
 2. Analysis and Filtering (using Excel and Python)
 3. Dashboard and insights
 
-# insights :
+# Insights :
 1. Most sold medicine - Bakson’s fevo aid syrup 
 2. Most used ingredient – Belladonna
 3. Most common specific area – Head

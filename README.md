@@ -15,7 +15,7 @@ Analysis of Brand 1Mg Homeopathic Medicine on the basis of data retrieved via we
 6. Average cash generation per sale – 185 RS
 
 # Dashboard :
-![image](https://github.com/laksh2701/1Mg-Homeopathic/assets/116880844/82751166-36ed-48b2-abef-ea4944b9c62a)
+![image](https://github.com/mahboobalam39/1Mg-Homeopathic-Data-Analysis/assets/147431637/617702ea-3ccd-4425-85d8-c566b86c4c49)
 
 # CHALLANGES FACED DURING THE PROJECT :
 1. LEARNING OF A NEW SKILL: WEB SCRAPPING (OPPORTUNITY AS WELL AS A CHALLANGE)
